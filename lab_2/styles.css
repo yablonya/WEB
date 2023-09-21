@@ -96,6 +96,7 @@ nav a:focus {
     display: flex;
     align-items: center;
     transition: all 0.2s ease-in-out;
+    border: 1px solid #DBDFEA;
 }
 
 .sidebar li a:hover {
